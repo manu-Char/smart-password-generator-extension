@@ -32,13 +32,15 @@ smart-password-generator-extension/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
-├── popup.html               # Main extension UI layout
-├── popup.css                # Styling for the extension popup
-├── popup.js                 # Password generator & logic
+├── padlock.png              # Original icon image
+├── popup.html               # Main UI structure
+├── popup.css                # Styling for the extension
+├── popup.js                 # Functional JavaScript logic
 ├── manifest.json            # Chrome extension configuration
 ├── README.md                # Project documentation
-└── .gitignore               # Ignored files/folders
+└── .gitignore               # Files/folders to exclude from Git tracking
 ```
+
 ## 🔧 Built With
 - HTML5, CSS3, JavaScript 
 - Chrome Extension API (Manifest v3)
