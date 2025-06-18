@@ -32,7 +32,6 @@ smart-password-generator-extension/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
-├── padlock.png              # Original icon image
 ├── popup.html               # Main UI structure
 ├── popup.css                # Styling for the extension
 ├── popup.js                 # Functional JavaScript logic
