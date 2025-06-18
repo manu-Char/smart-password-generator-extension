@@ -28,6 +28,7 @@ Your extension icon should now appear in the toolbar!
 
 ## 🗂 Project Structure
 
+```text
 smart-password-generator-extension/
 ├── icons/               # Extension icons
 ├── popup.html           # Main popup UI
@@ -35,8 +36,7 @@ smart-password-generator-extension/
 ├── popup.js             # Logic and interactions
 ├── manifest.json        # Chrome extension config
 └── README.md            # This file
-
-
+```
 ## 🔧 Built With
 - HTML5, CSS3, JavaScript 
 - Chrome Extension API (Manifest v3)
