@@ -12,9 +12,10 @@ A secure and user-friendly Chrome extension to generate strong passwords and eva
 - 📋 One-click copy to clipboard
 
 ## 📸 Screenshots
-Light Mode
+
+### 🔆 Light Mode  
 ![light](screenshots/light-mode.png)
- Dark Mode
+### 🌙 Dark Mode  
 ![dark](screenshots/dark-mode.png)
 
 ## 🛠 Installation (Chrome)
