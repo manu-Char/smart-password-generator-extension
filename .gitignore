@@ -1,0 +1,27 @@
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node.js (if used in future)
+node_modules/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS junk
+*.swp
+*.swo
+
+# Env files (if used later)
+.env
+
+# Output zips or packaged builds
+*.zip
+
+# Chrome Extension storage (if persisted)
+*.localstorage
+*.ldb
