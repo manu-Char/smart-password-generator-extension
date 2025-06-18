@@ -1,7 +1,6 @@
 # 🔐 Smart Password Generator & Strength Checker
 
-A secure and user-friendly Chrome extension to generate strong passwords and evaluate their strength in real time. Designed to promote better password habits with instant feedback, optional history saving, and a clean, responsive interface.
-![badge](https://img.shields.io/badge/built_with-JavaScript-blue) ![badge](https://img.shields.io/github/license/manu-Char/smart-password-generator-extension)
+A secure and user-friendly Chrome extension to generate strong passwords and evaluate their strength in real time. Designed to promote better password habits with instant feedback, optional history saving, and a clean, responsive interface.![badge](https://img.shields.io/badge/built_with-JavaScript-blue) ![badge](https://img.shields.io/github/license/manu-Char/smart-password-generator-extension)
 
 ## 🚀 Features
 - 🔢 Generate secure passwords of custom length
@@ -27,15 +26,18 @@ A secure and user-friendly Chrome extension to generate strong passwords and eva
 Your extension icon should now appear in the toolbar!
 
 ## 🗂 Project Structure
-
 ```text
 smart-password-generator-extension/
-├── icons/               # Extension icons
-├── popup.html           # Main popup UI
-├── popup.css            # Styling
-├── popup.js             # Logic and interactions
-├── manifest.json        # Chrome extension config
-└── README.md            # This file
+├── icons/                   # Extension icons (16x, 48x, 128x)
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+├── popup.html               # Main extension UI layout
+├── popup.css                # Styling for the extension popup
+├── popup.js                 # Password generator & logic
+├── manifest.json            # Chrome extension configuration
+├── README.md                # Project documentation
+└── .gitignore               # Ignored files/folders
 ```
 ## 🔧 Built With
 - HTML5, CSS3, JavaScript 
@@ -45,7 +47,7 @@ smart-password-generator-extension/
 ## 🧑‍💻 Author
 **Manmath Bharde**  
 📧 manmath.bharde01@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) 
+🌐 [LinkedIn](https://www.linkedin.com/in/manmath-bharde-1a406b35a/) 
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
